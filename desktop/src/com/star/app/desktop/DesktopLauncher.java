@@ -11,4 +11,7 @@ public class DesktopLauncher {
 		config.height = 720;
 		new LwjglApplication(new StarGame(), config);
 	}
+
+//	1. Разобраться с кодом
+//  2. Сделаейте выпадающие вещи: Аптечка, боезапас, монеты
 }
